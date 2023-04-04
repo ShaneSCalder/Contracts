@@ -29,7 +29,7 @@ Solidity Contracts
 # use the Bon1.sol file complie then create a bond using the other files with an NFT or not with an NTF.
 
 
-#Bond2.sol Contract Updates
+# Bond2.sol Contract Updates
 1. Bond issuer: The address of the contract owner who acts as the bond issuer.
 
 2. Bondholder: The address of the person who purchases the bond and becomes the bondholder.
